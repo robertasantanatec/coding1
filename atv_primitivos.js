@@ -55,3 +55,5 @@ salario_bruto = 2500
 rrpf = salario_bruto * 0.075
 salario_liquido = salario_bruto - rrpf + 169.75
 console.log(`seu salário liquido é de ${salario_liquido} reais e o salário bruto é de ${salario_bruto}`)
+
+console.log("testando github pelo vscode")
