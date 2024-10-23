@@ -6,7 +6,7 @@ let decisao = prompt('----Central de atendimento----\nEscolha: 1, Clinico geral.
     let telefone = prompt('Digite o seu telefone para contado')
     window.alert(`Nome:${nome}\nTelefone ${telefone}\nVocê Confima?`)
   }
-   else if(escolhaGastro == 2){
+   else if(escolhaClinico == 2){
    window.alert('Você sera encaminhado para o medico')
   }
 }
